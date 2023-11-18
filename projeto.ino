@@ -78,25 +78,9 @@ void tocaBuzzer(){
 }
 
 }
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
  
-  /* TENTATIVA COM MQTT
+  /*** TENTATIVA DE INTEGRAÇÃO COM O PROTOCOLO MQTT
 
   #include "EspMQTTClient.h"
   #include "NewPing.h"
@@ -163,6 +147,5 @@ void tocaBuzzer(){
     }
     delay(200);
   }
-
-FIM
-*/
+  
+***/
